@@ -1,4 +1,4 @@
-Evaluating the producer and consumer throughput via Rest Proxy server by Confluent. 
+Evaluating the producer and consumer throughput via Rest Proxy server by Confluent. Most of the concepts are similar to the description from @Apache-Kafka-Confluent-Evaluation repositry. This uses the Rest proxy service instead of the java client. I would highly recommend reading the http://docs.confluent.io/current/kafka-rest/docs/index.html before using this code for any benchmarking.
 
 Setup
 Hardware: Mac Os, 15Gb RAM, ~400gb used/ 512gb disk space, 7 cpu cores 
